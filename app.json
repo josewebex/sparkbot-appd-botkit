@@ -2,7 +2,7 @@
     "name": "sparkbot-appd-botkit",
     "description": "Runs a Webex Teams bot on Heroku.",
     "keywords": ["ciscospark", "webex", "chatbot", "botkit"],
-    "repository": "https://github.com/AltusConsulting/sparkbot-appd-botkit.git",
+    "repository": "https://github.com/josewebex/sparkbot-appd-botkit.git",
     "env": {
         "APPD_ACCOUNT": {
             "description": "Your AppDynamics account name. The subdomain of 'saas.appdynamics.com' in the URL of the SaaS version"
